@@ -1,4 +1,16 @@
-venv/
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual
+venv/
+.venv/
+
+# VS Code
 .vscode/
+
+# OS
+.DS_Store
+Thumbs.db
